@@ -1,5 +1,5 @@
 # AndroidLogAssert
-Log Assertion Library for use with Android Espresso tests
+Log Assertion Library/Module for use with Android Espresso tests
 
 ## What is this?
 Logs are rarely tested. This libarary makes testing log statements slightly easier by dealing with the plumbing for you.
@@ -48,3 +48,6 @@ public void clickLog100Button() throws Exception {
     logAssert.assertLogsCustom(); // Calls customHandler with android logs
 }
 ```
+
+### Working Example
+See [AndroidCrashDummy](https://github.com/ISNIT0/AndroidCrashDummy) and assosciated tests for a working example
