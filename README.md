@@ -50,4 +50,4 @@ public void clickLog100Button() throws Exception {
 ```
 
 ### Working Example
-See [AndroidCrashDummy](https://github.com/ISNIT0/AndroidCrashDummy) and assosciated tests for a working example
+See [AndroidCrashDummy](https://github.com/ISNIT0/AndroidCrashDummy) and associated tests for a working example.
